@@ -45,10 +45,15 @@ def agregar_definicion_alumno():
     definicion = "Object-Relational Mapping. Técnica para convertir datos entre sistemas incompatibles usando OOP."
     print(f"[NUEVO] {termino}: {definicion}")
 
+def definicion_django():
+    termino = "Django"
+    definicion = "Django. Framework web de Python de alto nivel que fomenta el desarrollo rápido y un diseño limpio y pragmático."
+    print(f"[NUEVO] {termino}: {definicion}")
 
 if __name__ == "__main__":
     mostrar_bienvenida()
     glosario_inicial()
+    definicion_django()
 
     # El alumno debe agregar la llamada a su función aquí:
     # agregar_definicion_alumno()
