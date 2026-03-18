@@ -37,14 +37,6 @@ def glosario_inicial():
 # 3. Llámala dentro del bloque 'if __name__ == "__main__":'
 
 
-def agregar_definicion_alumno():
-    """
-    EJEMPLO: El alumno debe renombrar esta función y completar su término.
-    """
-    termino = "ORM"  # Reemplazar con el término asignado o elegido
-    definicion = "Object-Relational Mapping. Técnica para convertir datos entre sistemas incompatibles usando OOP."
-    print(f"[NUEVO] {termino}: {definicion}")
-
 def definicion_django():
     termino = "Django"
     definicion = "Django. Framework web de Python de alto nivel que fomenta el desarrollo rápido y un diseño limpio y pragmático."
