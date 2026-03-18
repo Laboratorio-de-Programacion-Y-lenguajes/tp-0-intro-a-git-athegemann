@@ -53,6 +53,7 @@ def definicion_django():
 if __name__ == "__main__":
     mostrar_bienvenida()
     glosario_inicial()
+    definicion_django()
 
     # El alumno debe agregar la llamada a su función aquí:
     # agregar_definicion_alumno()
