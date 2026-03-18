@@ -2,7 +2,6 @@
 IF009 - Laboratorio de Programación y Lenguajes (UNTDF)
 TP 0: Git & GitHub Flow
 Script base para el Glosario Colaborativo
-Prueba
 """
 
 
